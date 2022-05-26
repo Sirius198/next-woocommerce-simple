@@ -1,10 +1,10 @@
 :sparkles::sparkles::sparkles: **I am currently updating this project to use WP GraphQL & NextJS's SSG (Static Site Generation)!** :tada::tada:
 
 ## :moneybag: React eCommerce Application
-
+<!-- 
 <p align="center">
   <img src="./doc/recording.gif">
-</p>
+</p> -->
 
 ## Basic Overview
 
